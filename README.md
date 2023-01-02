@@ -2,11 +2,11 @@
 
 ### What is this Challenge?
 
-    #ReviseWithArsh #6Companies30Days Challenge 2023 is a challenge initiated by Arsh Goal (Engineer/YouTuber) to practice top 90 - 100 most frequently asked and most important questions by most big tech companies.
+#ReviseWithArsh #6Companies30Days Challenge 2023 is a challenge initiated by Arsh Goal (Engineer/YouTuber) to practice top 90 - 100 most frequently asked and most important questions by most big tech companies.
 
 ### Duration:
 
-    January'2023
+January'2023
 
 ### Challenge Details:
 
